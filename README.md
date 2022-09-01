@@ -103,7 +103,7 @@ global.alive =`Hello i am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = welcome කියල පිලිගන්නවා මගේ වට්සැප් බොට් ගෲප් එකට ඔයාව සාදරයෙන්😊
+global.welcome =
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
